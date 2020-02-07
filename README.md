@@ -1,3 +1,9 @@
+```
+Title: Python GIS
+Author: John Fay
+Date: Spring 2020
+```
+
 # Python GIS
 > Notebooks for Python-GIS Lessons use in Automating GIS Processes: 
 > https://automating-gis-processes.github.io/site/index.html
